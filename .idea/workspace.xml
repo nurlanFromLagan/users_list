@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d17d76d-9f2d-4f81-bdb2-bb1062aedc56" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/league/plates" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/vendor/tamtamchik/simple-flash" />
+      <path value="$PROJECT_DIR$/vendor/eoghanobrien/php-simple-mail" />
+      <path value="$PROJECT_DIR$/vendor/delight-im/auth" />
+      <path value="$PROJECT_DIR$/vendor/delight-im/cookie" />
+      <path value="$PROJECT_DIR$/vendor/delight-im/base64" />
+      <path value="$PROJECT_DIR$/vendor/delight-im/http" />
+      <path value="$PROJECT_DIR$/vendor/delight-im/db" />
+      <path value="$PROJECT_DIR$/vendor/aura/sqlquery" />
+      <path value="$PROJECT_DIR$/vendor/kint-php/kint" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/php-di/invoker" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/vendor/php-di/php-di" />
+      <path value="$PROJECT_DIR$/vendor/jasongrimes/paginator" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="22HU6PY4SGW5oJ9JBLMfSSDXvpl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../firstProject" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\marlin\Exam\public\images\avatars" />
+      <recent name="C:\OpenServer\domains\marlin\Exam\app\views" />
+      <recent name="C:\OpenServer\domains\marlin\Exam\public" />
+      <recent name="C:\OpenServer\domains\marlin\Exam\public\html" />
+      <recent name="C:\OpenServer\domains\marlin\Exam\app\model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\marlin\Exam\public\html" />
+      <recent name="C:\OpenServer\domains\marlin\Exam\public" />
+      <recent name="C:\OpenServer\domains\marlin\Exam\app\views" />
+      <recent name="C:\OpenServer\domains\marlin\Exam" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d17d76d-9f2d-4f81-bdb2-bb1062aedc56" name="Default Changelist" comment="" />
+      <created>1639493829709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639493829709</updated>
+      <workItem from="1639493831175" duration="12686000" />
+      <workItem from="1639556613638" duration="6618000" />
+      <workItem from="1639641268397" duration="13291000" />
+      <workItem from="1639662547484" duration="6717000" />
+      <workItem from="1639726897550" duration="8000" />
+      <workItem from="1639726918921" duration="4710000" />
+      <workItem from="1639904006197" duration="1701000" />
+      <workItem from="1639983519042" duration="48000" />
+      <workItem from="1639983577977" duration="11820000" />
+      <workItem from="1640074785402" duration="31000" />
+      <workItem from="1640074830686" duration="7990000" />
+      <workItem from="1640089874368" duration="13077000" />
+      <workItem from="1640160310291" duration="52000" />
+      <workItem from="1640160376501" duration="8242000" />
+      <workItem from="1640369296528" duration="2160000" />
+      <workItem from="1640423265102" duration="17642000" />
+      <workItem from="1640525626285" duration="5673000" />
+      <workItem from="1640532558496" duration="1126000" />
+      <workItem from="1640588387330" duration="22394000" />
+      <workItem from="1640675911619" duration="16973000" />
+      <workItem from="1640774561028" duration="48000" />
+      <workItem from="1640774630147" duration="5141000" />
+      <workItem from="1640848525844" duration="9268000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="91" key="#Inspections" timestamp="1639498126542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="91" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1639498126542" />
+    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1640683367975">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1640683367975" />
+    <state x="549" y="338" key="#com.jetbrains.php.lang.intentions.PhpImportClassDialog#" timestamp="1639557886525">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="338" key="#com.jetbrains.php.lang.intentions.PhpImportClassDialog#/0.0.1536.824@0.0.1536.824" timestamp="1639557886525" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1640848545272">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1640848545272" />
+    <state x="534" y="135" key="NewPhpClassDialog" timestamp="1640803972294">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="534" y="135" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1640803972294" />
+    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1640804016150">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1640804016150" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1640333097709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1640333097709" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1640431912812">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1640431912812" />
+  </component>
+</project>
